@@ -24,7 +24,7 @@ section {
     border: 1px solid black;
     background-color: green;
     width: 100%;
-    height: 200px;
+    height: auto;
     color: black;
     position: relative;
     overflow: auto;
