@@ -3,7 +3,8 @@ My repository that contains solutions to several coding assignments provided by 
 ## Modules
 - Module 2
 -- URL: https://ozymandias6118.github.io/Coursera-WebDev-Module-Assignments/module2-solution/
-- Module 3 [Work in Progress]
+- Module
+-- URL: https://ozymandias6118.github.io/Coursera-WebDev-Module-Assignments/module3-solution/
 - Module 4 [Work in Progress]
 - Module 5 [Work in Progress]
 ### HTML, CSS, and Javascript for Web Developers - Coursera - by Johns Hopkins University
